@@ -1,0 +1,10 @@
+Programda Login yaparken
+Kullanıcıadi=admin
+Şifre=admin 
+
+yazarsanız yönetici paneline erişirsiniz.
+
+Kullanıcıadı:kursatsayhan
+Şifre=kursat123
+
+yaparsanız kullanıcı paneline erişebilirsiniz veya yeni bir kayıt açıp da erişebilirsiniz.
