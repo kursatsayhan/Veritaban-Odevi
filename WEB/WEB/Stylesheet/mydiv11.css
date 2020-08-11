@@ -1,0 +1,12 @@
+﻿.myDiv11 {
+    -webkit-box-shadow: 5px 5px 100px 1px #000000;
+    box-shadow: 5px 5px 100px 1px #000000;
+    background: rgb(23,234,217);
+    background: linear-gradient(300deg, rgba(23,234,217,1) 0%, rgba(96,120,234,1) 100%);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+    margin-left: 900px;
+    margin-top: -800px;
+    border-radius: 30px 30px 30px 30px
+}

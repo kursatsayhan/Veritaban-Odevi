@@ -1,0 +1,6 @@
+﻿.form {
+    background: #5B247A;
+    background: -moz-linear-gradient(-45deg, #5B247A 0%, #1BCEDF 100%);
+    background: -webkit-linear-gradient(-45deg, #5B247A 0%, #1BCEDF 100%);
+    background: linear-gradient(135deg, #5B247A 0%, #1BCEDF 100%);
+}

@@ -1,0 +1,10 @@
+﻿.textbox {
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    background-color: transparent;
+    outline: none;
+    height: 50px;
+    width: 300px;
+    font-size: 18px;
+    color: #ffffff;
+}
